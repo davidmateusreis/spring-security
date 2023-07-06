@@ -6,3 +6,6 @@ spring:
           google:
             client-id: 29819378706-10smcigegu89quj3ueoa1njvd13vmat6.apps.googleusercontent.com
             client-secret: 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
+      resourceserver:
+        jwt:
+          issuer-uri: https://accounts.google.com
